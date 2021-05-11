@@ -92,3 +92,9 @@ header nav a:hover{
   width: 70%;
   margin-left: 20px;
 }
+
+.box-shows{
+  height: 80%;
+  width: 80%;
+  display: block;
+}
